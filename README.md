@@ -15,5 +15,5 @@ python script.py <video_url>
 
 ## Example
 ```sh
-`python script.py https://www.youtube.com/watch?v=abc123`
+python script.py https://www.youtube.com/watch?v=abc123
 ```
