@@ -15,4 +15,4 @@ python script.py <video_url>
 
 ## Example
 
-python script.py https://www.youtube.com/watch?v=abc123
+`python script.py https://www.youtube.com/watch?v=abc123`
