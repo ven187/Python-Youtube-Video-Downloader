@@ -11,5 +11,8 @@ This script downloads a video from a given URL to a specified output directory u
 
 ```sh
 python script.py <video_url>
+```
 
+## Example
 
+python script.py https://www.youtube.com/watch?v=abc123
